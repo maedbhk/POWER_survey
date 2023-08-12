@@ -1,0 +1,12 @@
+name: healthy-brain-network
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - ipykernel
+  - pandas
+  - seaborn 
+  - plotly
+  - pip:
+    - pydra-ml
