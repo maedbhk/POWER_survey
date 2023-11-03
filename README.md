@@ -7,6 +7,3 @@ In Summer 2023, a [survey](https://drive.google.com/file/d/1fMhWOel-4FEX4SDK02NL
 
 The notebook used to analyse the results is available [here](https://github.com/maedbhk/POWER_survey/blob/main/notebooks/power_survey.ipynb)
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
-# POWER_survey
-# POWER_survey
